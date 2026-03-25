@@ -1,4 +1,4 @@
-# Setip_Rustdesk_Server_On_Portainer
+# Setup_Rustdesk_Server_On_Portainer
 
 docker(portainer)가 설치되있다는 점과 공유기 포트포워딩이 사진처럼 되어있다는 전제 하에 설명 
 (Lan IP는 본인 라즈베리파이ip혹은 rustdesk 서버로 쓸 ip (본인은 사전에 DHCP설정해둬서 ex)192.168.0.125와 같이 세팅)
